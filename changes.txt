@@ -1,0 +1,2 @@
+- Created a new project in VS 2022 and copied the files
+- Removed two files on root folder that didn't serve any purpose: Character.cs and Grid.cs
